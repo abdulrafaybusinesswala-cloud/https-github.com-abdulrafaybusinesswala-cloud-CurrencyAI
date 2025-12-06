@@ -1,0 +1,5 @@
+{
+  "name": "CurrencyAI",
+  "description": "An intelligent currency converter powered by Gemini 2.5 Flash and Google Search Grounding. Features real-time exchange rates, historical trend visualization, and natural language query support.",
+  "requestFramePermissions": []
+}
